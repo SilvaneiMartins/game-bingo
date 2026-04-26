@@ -2,9 +2,9 @@
 
 Um jogo de Bingo clássico e interativo desenvolvido em **C++** utilizando a biblioteca **raylib**.
 
-![Bingo Martins](images/bingo1.png)
-![Tela Inicial](images/bingo2.png)
-![Jogo em Andamento](images/bingo3.png)
+![Bingo Martins](images/image1.png)
+![Tela Inicial](images/image2.png)
+![Jogo em Andamento](images/image3.png)
 
 ## 🚀 Funcionalidades
 - Sorteio de 1 a 99 sem repetição.

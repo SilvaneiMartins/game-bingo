@@ -21,7 +21,7 @@ namespace
 
     constexpr int kLarguraTela = 1280;
     constexpr int kAlturaTela = 830;
-    constexpr const char *kTituloJanela = "Bingo Martins";
+    constexpr const char *kTituloJanela = "BINGO MARTINS";
     constexpr int kPainelEsquerdoLargura = 470;
     constexpr int kCartelaOrigemX = 592;
     constexpr int kCabecalhoAltura = 52;
